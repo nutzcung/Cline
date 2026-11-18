@@ -1,0 +1,23 @@
+Beside my Honda ADV160, I have BMW R9T Pure for pressure riding in some holiday. I owned the bike more than three year, and the total distance is less than 10k Km. From the past three years, I have checked in at BMW-Motorrad Thailand Rama3 yearly. The price around each check in is around 8k THB. Now I am considering check in at third party service provider such as K-Speed, which is very close to my place (~5km). I have one concern on the amber light show showing time to check in the bike. I am not sure whether the third-party service center can clear out the warning amber light. For the engine oil change and spare part replacement, i have no concern because the R9T build is quite straight forward, no complex electronic comparing to the iconic GS models.
+Made 1 tool call
+The forum results are very helpful. Now let me verify what K-Speed actually offers (custom shop vs. service center) and whether there's any owner-side reset procedure for the R nineT wrench light. I did some research on this (forums, tool vendors, and BMW Motorrad Thailand's own K-Speed collaboration page). Here's the full picture for your R nineT Pure:
+## Short answer: Yes — the amber wrench light is not a dealer-only thing
+The amber wrench/"service due" indicator on the R nineT (K25 platform) is just a service-interval reminder stored in the instrument cluster, not a fault code. It counts down on a 12-month and distance basis — which is why it pops up on your low-mileage bike every year even though you've only done ~10k km total.
+Clearing it requires a diagnostic tool plugged into the bike's diagnostic socket — there is no secret dashboard-button combo on the R nineT like there was on older boxers. But that tool does not have to be BMW's own ISTA at a dealer. Any well-equipped independent shop can do it in a few minutes with one of:
+- HEX GS-911 — the classic enthusiast/indy tool for BMW Motorrad
+- MotoScan app + Bluetooth OBD adapter — very popular, cheap, used all over the world (documented resetting the R nineT service indicator here)
+- Foxwell NT530, OBDStar, iCarsoft, UniCarScan — budget scan tools; OBDStar even publishes an officialR nineT Scrambler service-lamp reset procedure, and one R nineT ownerreset his wrench light with a ~$20 analyzer
+There are even YouTube walk-throughs of thefull service-light reset on an R nineT, and independent_RESET services are a common thing (UKGSer thread) — it's a genuinely routine job outside the dealer network.
+## About K-Speed specifically
+K-Speed is arguably *the* best-known custom house for the R nineT in Thailand — they've built official builds with BMW Motorrad Thailand itself (BMW's "Little More Attitude by K-Speed" story) and customize these bikes constantly, so they know the platform inside out. That said, their core business is customization/accessories, so before booking, just ask one simple question:
+> "หลังจากเปลี่ยนน้ำมันแล้ว รีเซ็ตไฟเตือนถึงกำหนดเซอร์วิส (สัญลักษณ์ประแจ) ที่หน้าปัดให้ได้ไหมครับ?"
+If they say yes (and they very likely own a GS-911 or MotoScan given how many R nineTs pass through their doors), you're set. If somehow they can't, your fallbacks:
+1. DIY with MotoScan — a few thousand baht total, works on your phone, and you keep it forever
+2. Any independent BMW specialist with a GS-911 (usually free or a small fee)
+3. A one-off stop at Rama 3 just for the reset after K-Speed does the wrench work
+## A few practical notes since you're weighing the switch
+- Warranty is no longer a factor. Your bike is 3+ years old, so the BMW factory warranty is already over — servicing outside the dealer network carries no legal/warranty downside at this point.
+- Resale record-keeping is the only real trade-off. "Full BMW Motorrad service history" does add credibility when selling an R nineT. You have 3 years of dealer history now — if you switch, just keep the K-Speed invoices and make sure the correct oil spec (BMW Motorrad 15W-50 full synthetic) and OEM/filters are used, so the paper trail shows a proper service rhythm.
+- Your instinct about the bike itself is right. The air/oil-cooled 1,170 cc boxer in the R nineT is mechanically simple by modern BMW standards — the on-paper annual service boils down to oil + filter, plugs on schedule, brake fluid every 2 years (flush is important with the ABS unit), and a general inspection. The service reminder reset really is the only "dealer-ish" step in the whole job, and as above, it's routine.
+Bottom line: Go ahead and try K-Speed — just confirm the service-light reset question when you book. It's a 5-minute job with the right scan tool, and given they live and breathe R nineTs, you should be fine.
+
