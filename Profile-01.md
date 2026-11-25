@@ -1,0 +1,72 @@
+### 1. Demographics Information
+- The user is a man who resides in a suburban home with a lawn and garden in the Bangkok area of Thailand.
+  - Evidence: Inferred from user conversations. Date: [2026-03 to 2026-10].
+- The user's primary occupation is Solution Delivery Manager on IT infrastructure, providing professional services and solutions to corporate clients, including Toyota Motor Asia Thailand.
+  - Evidence: User said "FYI, my main job is Solution Delivery Manager on IT infrastructure providing professional services to customer, which is Toyota Motor Asia Thailand. The self-hosting and home labs just my entertaining hobbies. :D". Date: [2026-03].
+### 2. Interests & Preferences
+- The user maintains extensive administrative expertise across hybrid operating systems and enterprise data architectures, including Red Hat Enterprise Linux (RHEL) versions 6 through 9, Oracle Linux, Solaris 11.3, Windows Server versions 2008 R2 through 2012 R2, and database systems such as Oracle 12c and 19c, MySQL 8.0, and PostgreSQL 18.
+  - Evidence: Inferred from user conversations. Date: [2026-01 to 2026-10].
+- The user practices domestic self-hosting and home-lab engineering as an entertaining technical hobby, constructing custom server arrays (including a TrueNAS SCALE server in a JONSBO N5 chassis with an Intel Xeon E5-2697A v4 and RTX 3060 GPU, and an ASUSTOR AS5304T NAS upgraded to 16GB RAM), reverse proxy architectures, and local automated network services bound to the domain `mux-labs.com`.
+  - Evidence: User said "Forget to mention that I already upgrade this NAS to 16GB RAM. :D" and "The self-hosting and home labs just my entertaining hobbies. :D". Date: [2026-01 to 2026-08].
+- The user runs a home mesh network architecture configured with an Asus TUF-BE6500 as the main router linked over permanent in-wall CAT6 Ethernet backhaul wiring to an Asus RT-AX88U mesh node.
+  - Evidence: User said "No need to concern for the connection between two routers. My home is wired all rooms with CAT6 cable. The be6500 should be the main router. Should I consider more models?". Date: [2026-04].
+- The user prefers containerized open-source toolchains and utilities, choosing Docker Compose deployments, Cloudflare Tunnel routing configurations, AdGuard Home split-horizon DNS controls, and Kopia container backups mapped over local S3 storage via RustFS.
+  - Evidence: Inferred from user conversations. Date: [2026-01 to 2026-08].
+- The user enjoys motorcycle riding and mechanical tuning, keeping an air-and-oil-cooled 1170cc Boxer engine BMW R9T motorcycle for weekend recreation and riding a Zontes 368K maxi-scooter for daily commuting in Bangkok traffic.
+  - Evidence: User said "I think I will trade the ADV160 to the 368K" and confirmed retaining the BMW R9T. Date: [2026-08].
+- The user engages in regular DIY home maintenance, mechanical repairs, and woodwork crafting, utilizing tools compatible with the standardized Makita LXT 20V battery footprint and metric Forstner bits.
+  - Evidence: User said "Actuallly the diameter is 23.25 to be very precise. Does it change the solution?". Date: [2026-02 to 2026-10].
+- The user maintains a systematic home lawn care and landscape gardening routine, cultivating Manila grass turf along with hedge privacy plants including ต้นเข็มแดง, ต้นทองอุไร, and ต้นโมก, using forged steel equipment like Japanese ARS VS-9XZ pruning shears.
+  - Evidence: Inferred from user conversations. Date: [2026-10].
+- The user operates a home recycling sorting program, accumulating clear PET bottles in batches to prepare and clean them for local recycling collection centers.
+  - Evidence: Inferred from user conversations. Date: [2026-10].
+- The user plays cooperative and teamwork-focused multiplayer video games on PC and Nintendo Switch platforms, such as *A Way Out*.
+  - Evidence: Inferred from user conversations. Date: [2026-04 to 2026-10].
+- The user assembles high-fidelity desktop audio chains featuring an ESS SABRE ES9039Q2M DAC, Ortofon Reference 8NX RCA cables, Q Acoustics Media BT3 powered speakers, and Sony MDR-1A headphones upgraded with a balanced 4.4mm Pentaconn connection running via PotPlayer with WASAPI Exclusive or ASIO drivers.
+  - Evidence: Inferred from user conversations. Date: [2026-08].
+### 3. Relationships
+- The user has been married for over ten years to a wife who runs a small-to-medium enterprise non-IT business, uses a Vivo X300 Pro smartphone, and shares oversight of household storage and property projects.
+  - Evidence: Inferred from user conversations. Date: [2026-02 to 2026-10].
+- The user has a 13-year-old son who shares interests in cooperative video games, participates in summer DIY woodworking builds, uses a Goojodoq GD13 stylus for schoolwork, and plays games using a light green genuine Xbox Wireless Controller.
+  - Evidence: Inferred from user conversations. Date: [2026-03 to 2026-10].
+- The user coordinates and collaborates with a professional database administration team to design and audit enterprise-wide inventory schemas and infrastructure frameworks.
+  - Evidence: Inferred from user conversations. Date: [2026-10].
+### 4. Dated Events, Projects & Plans
+- The user engineered a summer educational woodworking build with a 13-year-old son, constructing a small wooden chair using a 23.25mm metric Forstner bit, wood glue, and a dovetail jig.
+  - Evidence: User said "Actuallly the diameter is 23.25 to be very precise. Does it change the solution?". Date: [2026-03].
+- The user updated requirements for a movie processing script on TrueNAS to ensure subtitle file checking and WhisperX operations execute recursively across all nested subfolders.
+  - Evidence: User said "I missed one info. For no#1, I need to check all files in the sub folders as well. Same as no#2, need to rename all files including sub folders.". Date: [2026-08].
+- The user resolved a PostgreSQL 18 service startup failure on an air-gapped Red Hat Enterprise Linux 9.6 host by creating a dedicated subfolder off the root directory of the mounted disk partition.
+  - Evidence: User said "changing from root of a dedicated disk partition works flawlessly. thx". Date: [2026-08].
+- The user restored an online database replication stack on a TrueNAS server by correcting container path configurations and applying database persistence layer volume mounts to PostgreSQL and Nginx Proxy Manager apps.
+  - Evidence: Inferred from user conversations. Date: [2026-08].
+- The user completed a thermal overhaul of a secondhand NVIDIA RTX 3060 graphics card, stripping the assembly, removing oxidation from cooling fins using white vinegar, and resetting thermal pads and paste.
+  - Evidence: Inferred from user conversations. Date: [2026-08].
+- The user executed an electrical upgrade on a BMW R9T motorcycle, mounting a 12V 18Ah GreenBattery LiFePO4 starter core using hand-cut 5mm EVA foam sheets.
+  - Evidence: Inferred from user conversations. Date: [2026-08].
+- The user traded a Honda ADV160 scooter to acquire a Zontes 368K maxi-scooter for daily commuting.
+  - Evidence: User said "I think I will trade the ADV160 to the 368K". Date: [2026-08].
+- The user overhauled a malfunctioning Makita HR2611F rotary hammer, replacing worn compression O-rings and carbon brushes and repacking the gear housing with Lithium Complex NLGI #0 grease.
+  - Evidence: User said "Noted that i change the grease to lithium complex with NLGI#0 from local Thai brand". Date: [2026-09].
+- The user managed the assembly of a residential wooden wall shelf using budget MDF rectangular sections and pre-drilled single-metal connection alignment pins.
+  - Evidence: Inferred from user conversations. Date: [2026-09].
+- The user constructed a custom electronic lawn mower assembly by modifying a brush-motor model with an external PWM variable power module and a 26mm mechanical accelerator motorcycle-style handle grip.
+  - Evidence: Inferred from user conversations. Date: [2026-10].
+- The user upgraded a 25-liter containerized fertilizer sprayer unit with a custom 12V 6Ah LiFePO4 power pack and padded structural straps.
+  - Evidence: Inferred from user conversations. Date: [2026-10].
+- The user's wife traveled to Switzerland for a vacation.
+  - Evidence: Inferred from user conversations. Date: [2026-10].
+- The user evaluated the engineering architecture for custom-building a high-rate prismatic 4S LiFePO4 automotive starter battery pack (70Ah–100Ah) with a dual-path bypass design for a 2016 Mitsubishi Triton diesel truck.
+  - Evidence: Inferred from user conversations. Date: [2026-10].
+- The user investigated localized subsoil chemistry remediation techniques for compacted suburban clay soils, blending ทรายถม, ดินมูลไส้เดือน, and organic bone meal.
+  - Evidence: Inferred from user conversations. Date: [2026-10].
+- The user began designing a structural database inventory framework for heterogeneous enterprise systems spanning Oracle, MySQL, and PostgreSQL instances.
+  - Evidence: Inferred from user conversations. Date: [2026-10].
+- The user has been managing a long-term landscape restoration project to counter topsoil thinning and ground compaction following tropical rains, as well as constructing a home garden composting cycle system for ปุ๋ยหมัก.
+  - Evidence: Inferred from user conversations. Date: [2026-10 to 2026-11].
+- The user reviewed operational logic and base conversion steps across BASE-N configuration systems on a Casio fx-991EX ClassWiz scientific calculator.
+  - Evidence: Inferred from user conversations. Date: [2026-11].
+### 5. Instructions
+- No explicit instructions stored in memory.
+Imported from: Gemini
+
